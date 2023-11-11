@@ -11,7 +11,7 @@ const DonatedList = () => {
     const [applyDonate, setApplyDonate] = useState([]);
 
     const [,setDonation] = useContext(DonationContext);
-    // console.log(donation);
+    // console.log(applyDonate.length);
  
     useEffect(() => {
         const storedDonationId = getStoredDonation();
@@ -37,7 +37,7 @@ const DonatedList = () => {
                     applyDonate.slice(0, dataLength).map(card => <ShowDonateCard key={card.id} card={card}></ShowDonateCard>)
                 }
             </div>
-            <div className={dataLength === cards.length ? "hidden" : ""}>
+            <div className={dataLength === cards.length || applyDonate.length === 0 ? "hidden" : ""}>
                 <div className="flex justify-center mt-10">
                     <button onClick={() => setDatalength(cards.length)} className="btn normal-case my-4" style={{ color: "white", backgroundColor: "#009444" }}>See All Jobs</button>
                 </div>
