@@ -34,7 +34,7 @@ const Statistics = () => {
 
     return (
         <div className="text-center mb-10">
-            <section className="flex justify-center">
+            <section className="flex justify-center font-bold text-3xl">
                 <PieChart width={500} height={500}>
                     <Pie
                         data={data}

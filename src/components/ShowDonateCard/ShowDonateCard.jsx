@@ -1,21 +1,22 @@
 import { BiDollar } from "react-icons/bi";
 import PropTypes from 'prop-types';
+import { Link } from "react-router-dom";
 
 
 const ShowDonateCard = ({ card }) => {
-    const { title, category, price, image,bg_color,text_color } = card;
+    const {id, title, category, price, image, bg_color, text_color } = card;
 
     const styles = {
         contentColor: {
             backgroundColor: `${bg_color}`,
             color: `${text_color}`
-            
+
         },
-        btnColor:{
+        btnColor: {
             backgroundColor: `${text_color}`,
             color: 'white'
         },
-        titleColor:{
+        titleColor: {
             color: 'black'
         }
     };
@@ -31,7 +32,10 @@ const ShowDonateCard = ({ card }) => {
                     <h2 style={styles.titleColor} className="text-xl font-bold">{title}</h2>
                     <p className="flex items-center font-bold"><BiDollar></BiDollar>{price}.00</p>
                     <div className="card-actions justify-start">
-                        <button style={styles.btnColor} className="btn btn-sm">View Details</button>
+                        <Link to={`/cardDetail/${id}`}>
+                            <button style={styles.btnColor} className="btn btn-sm">View Details</button>
+                        </Link>
+                        
                     </div>
                 </div>
             </div>
@@ -40,6 +44,6 @@ const ShowDonateCard = ({ card }) => {
 };
 ShowDonateCard.propTypes = {
     card: PropTypes.object
-  };
+};
 
 export default ShowDonateCard;
