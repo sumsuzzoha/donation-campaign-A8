@@ -1,0 +1,9 @@
+ul a{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+ul a.active{
+text-decoration: underline;
+color: #FF444A;
+}

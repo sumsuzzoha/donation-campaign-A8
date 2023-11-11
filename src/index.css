@@ -1,0 +1,11 @@
+:root {
+  font-family: 'Inter', sans-serif;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
