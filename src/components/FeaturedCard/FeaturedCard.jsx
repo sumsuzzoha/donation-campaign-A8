@@ -20,7 +20,7 @@ const FeaturedCard = (card) => {
         <div >
             
             <Link to={`/cardDetail/${id}`}>
-            <div style={styles.bgColor} className="card card-compact bg-base-100 shadow-xl ">
+            <div style={styles.bgColor} className="card card-compact bg-base-100 shadow-xl p-10 sm:p-0">
                 <figure className=""><img src={image} alt="notfound" /></figure>
                 <div  className="card-body">
                     <div className="card-actions justify-start">

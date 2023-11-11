@@ -12,7 +12,7 @@ const FeaturedSec = () => {
     // console.log(cards);
     return (
         <div>
-            <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 mx-40 mb-10">
+            <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-6 md:mx-40 mb-10">
                 {
                     cards.map(card => <FeaturedCard key={card.id} card={card}></FeaturedCard>)
                 }

@@ -31,8 +31,8 @@ const DonatedList = () => {
     }, [])
 
     return (
-        <div className="mx-40 mb-10">
-            <div className="grid grid-cols-2 gap-4">
+        <div className="mx-auto md:mx-40 mb-10">
+            <div className="grid sm:grid-cols-2 gap-4">
                 {
                     applyDonate.slice(0, dataLength).map(card => <ShowDonateCard key={card.id} card={card}></ShowDonateCard>)
                 }

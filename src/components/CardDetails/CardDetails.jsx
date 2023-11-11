@@ -34,7 +34,7 @@ const CardDetails = () => {
 
 
     return (
-        <div className="mx-40">
+        <div className="md:mx-40">
             <div style={styles.container}>
                 <div className="bg-no-repeat bg-cover rounded-2xl relative " style={styles.main}>
                     <div className="rounded-b-2xl absolute bottom-0 left-0" style={styles.content}>
