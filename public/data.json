@@ -7,7 +7,7 @@
     "price": 450,
     "description": "Elevate your well-being with our Multivitamin Complex, a potent blend of essential vitamins and minerals. This meticulously crafted supplement aims to boost overall health by supporting immune function, enhancing energy levels, and promoting vitality. Invest in your health today and experience the comprehensive benefits of optimal nutritional support. The easy-to-swallow capsules make it convenient to incorporate into your daily routine. With a thoughtful balance of nutrients, our Multivitamin Complex is your partner on the journey to a healthier, more vibrant lifestyle.",
     "text_color": "#0052FF",
-    "bg_color": "#0052FF15"
+    "bg_color": "#0052FF25"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "price": 320,
     "description": "Embark on a captivating journey through the world of physics with our comprehensive book, 'Introduction to Physics.' This enlightening guide caters to both beginners and enthusiasts, covering fundamental principles, theories, and real-world applications. Immerse yourself in the wonders of the universe and enhance your understanding of the physical sciences. With engaging content and accessible explanations, this book is designed to make complex concepts approachable, fostering a deeper appreciation for the mysteries of the cosmos.",
     "text_color": "#FF444A",
-    "bg_color": "#FF444A15"
+    "bg_color": "#FF444A25"
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@
     "price": 280,
     "description": "Experience the perfect blend of comfort and style with our Casual Cotton Shirt. Meticulously crafted from breathable cotton, this versatile shirt is ideal for everyday wear, offering a timeless look for both work and leisure. The classic design ensures a wardrobe staple that seamlessly combines fashion and comfort. Elevate your style with this essential piece that effortlessly transitions from casual outings to relaxed weekends, making it a must-have for every modern wardrobe.",
     "text_color": "#79C23F",
-    "bg_color": "#79C23F15"
+    "bg_color": "#79C23F25"
   },
   {
     "id": "4",
@@ -37,47 +37,47 @@
     "price": 190,
     "description": "Satisfy your snack cravings guilt-free with our Organic Trail Mix. This delightful blend of organic nuts and dried fruits is not only a tasty treat but also a nutritious snack option. Packed with essential nutrients, our trail mix provides sustained energy for on-the-go adventures or serves as a midday pick-me-up. Indulge in the wholesome goodness of organic ingredients, carefully selected to create a flavorful and health-conscious snacking experience.",
     "text_color": "#F87147",
-    "bg_color": "#F8714715"
+    "bg_color": "#F8714725"
   },
   {
     "id": "5",
-    "image": "https://i.ibb.co/gyHTZWN/Health.png",
-    "title": "Omega-3 Fish Oil Softgels",
-    "category": "Health",
-    "price": 500,
-    "description": "Prioritize your cardiovascular and cognitive health with our Omega-3 Fish Oil Softgels. Formulated with high-quality fish oil, these softgels deliver essential omega-3 fatty acids, supporting heart and brain function. Convenient and easy to incorporate into your daily routine, our softgels promote overall well-being and vitality. With each capsule, you're investing in a proactive approach to health, ensuring that your body receives the essential nutrients it needs for optimal functioning.",
-    "text_color": "#0052FF",
-    "bg_color": "#0052FF15"
-  },
-  {
-    "id": "6",
-    "image": "https://i.ibb.co/R7sm3Tn/Education.png",
-    "title": "Ancient Civilizations",
-    "category": "Education",
-    "price": 400,
-    "description": "Embark on a profound exploration of human history with our in-depth book, 'History of Ancient Civilizations.' This comprehensive guide takes you on a captivating journey from the rise of empires to cultural achievements, unraveling the stories of ancient societies. Gain profound insights into the foundations of our modern world through engaging narratives and detailed historical accounts. Immerse yourself in the rich tapestry of our shared human heritage with this enlightening and thought-provoking book.",
-    "text_color": "#FF444A",
-    "bg_color": "#FF444A15"
-  },
-  {
-    "id": "7",
-    "image": "https://i.ibb.co/Y7WYw1Y/Clothing.png",
-    "title": "Elegant Evening Dress",
-    "category": "Clothing",
-    "price": 350,
-    "description": "Make a statement at special occasions with our Elegant Evening Dress. This meticulously designed dress combines sophistication with timeless elegance, featuring intricate details and a flowing silhouette. Perfect for formal events, the dress exudes grace and style, ensuring you stand out in the crowd. Elevate your evening with this exquisite piece, capturing the essence of glamour and sophistication in every moment.",
-    "text_color": "#79C23F",
-    "bg_color": "#79C23F15"
-  },
-  {
-    "id": "8",
     "image": "https://i.ibb.co/kMW97Wr/Food.png",
     "title": "Fresh Organic Apples",
     "category": "Food",
     "price": 220,
     "description": "Delight your taste buds and nourish your body with our Fresh Organic Apples. Bursting with natural sweetness and crispness, these apples are a healthy and refreshing snack. Packed with vitamins and antioxidants, they contribute to a balanced and nutritious diet. Enjoy the goodness of fresh, organic produce with every bite, knowing you're making a delicious and health-conscious choice.",
     "text_color": "#F87147",
-    "bg_color": "#F8714715"
+    "bg_color": "#F8714725"
+  },
+  {
+    "id": "6",
+    "image": "https://i.ibb.co/Y7WYw1Y/Clothing.png",
+    "title": "Elegant Evening Dress",
+    "category": "Clothing",
+    "price": 350,
+    "description": "Make a statement at special occasions with our Elegant Evening Dress. This meticulously designed dress combines sophistication with timeless elegance, featuring intricate details and a flowing silhouette. Perfect for formal events, the dress exudes grace and style, ensuring you stand out in the crowd. Elevate your evening with this exquisite piece, capturing the essence of glamour and sophistication in every moment.",
+    "text_color": "#79C23F",
+    "bg_color": "#79C23F25"
+  },
+  {
+    "id": "7",
+    "image": "https://i.ibb.co/R7sm3Tn/Education.png",
+    "title": "Ancient Civilizations",
+    "category": "Education",
+    "price": 400,
+    "description": "Embark on a profound exploration of human history with our in-depth book, 'History of Ancient Civilizations.' This comprehensive guide takes you on a captivating journey from the rise of empires to cultural achievements, unraveling the stories of ancient societies. Gain profound insights into the foundations of our modern world through engaging narratives and detailed historical accounts. Immerse yourself in the rich tapestry of our shared human heritage with this enlightening and thought-provoking book.",
+    "text_color": "#FF444A",
+    "bg_color": "#FF444A25"
+  },
+  {
+    "id": "8",
+    "image": "https://i.ibb.co/gyHTZWN/Health.png",
+    "title": "Omega-3 Fish Oil Softgels",
+    "category": "Health",
+    "price": 500,
+    "description": "Prioritize your cardiovascular and cognitive health with our Omega-3 Fish Oil Softgels. Formulated with high-quality fish oil, these softgels deliver essential omega-3 fatty acids, supporting heart and brain function. Convenient and easy to incorporate into your daily routine, our softgels promote overall well-being and vitality. With each capsule, you're investing in a proactive approach to health, ensuring that your body receives the essential nutrients it needs for optimal functioning.",
+    "text_color": "#0052FF",
+    "bg_color": "#0052FF25"
   },
   {
     "id": "9",
@@ -87,7 +87,7 @@
     "price": 480,
     "description": "Indulge in the rich and delicious flavor of our Chocolate Protein Shake Mix. Specially formulated for post-workout recovery, this mix is a convenient and enjoyable way to replenish protein levels. With a delectable chocolate taste, it's a guilt-free treat that supports muscle repair and overall fitness goals. Shake, sip, and recharge your body with the nourishing benefits of this delectable protein shake.",
     "text_color": "#0052FF",
-    "bg_color": "#0052FF15"
+    "bg_color": "#0052FF25"
   },
   {
     "id": "10",
@@ -97,7 +97,7 @@
     "price": 290,
     "description": "Stay organized and inspired with our Spiral-bound Notebook. Featuring quality paper and a durable cover, this notebook is ideal for jotting down notes, thoughts, and creative ideas. Whether you're a student, professional, or creative thinker, this practical and stylish notebook is an essential companion for your daily endeavors. Elevate your note",
     "text_color": "#FF444A",
-    "bg_color": "#FF444A15"
+    "bg_color": "#FF444A25"
   },
   {
     "id": "11",
@@ -107,7 +107,7 @@
     "price": 420,
     "description": "Step into comfort and performance with our Running Shoes. Engineered for an active lifestyle, these shoes offer cushioning, support, and style. Whether you're jogging, running, or hitting the gym, our running shoes provide the perfect blend of functionality and fashion. Take each stride with confidence and comfort.",
     "text_color": "#79C23F",
-    "bg_color": "#79C23F15"
+    "bg_color": "#79C23F25"
   },
   {
     "id": "12",
@@ -117,6 +117,6 @@
     "price": 180,
     "description": "Enhance your meals with the nutritional goodness of our Organic Spinach. Packed with vitamins, minerals, and antioxidants, this fresh and organic spinach adds a healthful boost to salads, smoothies, and cooked dishes. Support your well-being with the crisp and vibrant flavors of this nutrient-rich leafy green vegetable.",
     "text_color": "#F87147",
-    "bg_color": "#F8714715"
+    "bg_color": "#F8714725"
   }
 ]
